@@ -1,6 +1,6 @@
--classpath 'C:\\Users\\colso\\Desktop\\FRC-2017\\build\\classes\\main;C:\\Users\\colso\\Desktop\\FRC-2017\\build\\resources\\main;C:\\Users\\colso\\.gradle\\caches\\modules-2\\files-2.1\\edu.wpi.first.wpilib.networktables.java\\NetworkTables\\3.1.1-beta-1\\e6bd8232cce0aaab31e4b2a738133c4363471260\\NetworkTables-3.1.1-beta-1-desktop.jar;C:\\Users\\colso\\.gradle\\caches\\modules-2\\files-2.1\\edu.wpi.first.wpilib.networktables.java\\NetworkTables\\3.1.1-beta-1\\c7ce3d9d33d75c108d9f0d3c4d82739c673ac3c2\\NetworkTables-3.1.1-beta-1-arm.jar;C:\\Users\\colso\\.gradle\\caches\\modules-2\\files-2.1\\edu.wpi.first.wpilibj\\wpilibJavaFinal\\2016.5.1\\340606a96e9914b9bcecec43406cbc8f58e1a14f\\wpilibJavaFinal-2016.5.1.jar'
--d 'C:\\Users\\colso\\Desktop\\FRC-2017\\build\\docs\\javadoc'
--doctitle 'FRC-2017 API'
+-classpath 'C:\\Users\\colso\\Desktop\\FRC-2017\\Workspaces\\build\\classes\\main;C:\\Users\\colso\\Desktop\\FRC-2017\\Workspaces\\build\\resources\\main;C:\\Users\\colso\\.gradle\\caches\\modules-2\\files-2.1\\edu.wpi.first.wpilib.networktables.java\\NetworkTables\\3.1.1-beta-1\\e6bd8232cce0aaab31e4b2a738133c4363471260\\NetworkTables-3.1.1-beta-1-desktop.jar;C:\\Users\\colso\\.gradle\\caches\\modules-2\\files-2.1\\edu.wpi.first.wpilib.networktables.java\\NetworkTables\\3.1.1-beta-1\\c7ce3d9d33d75c108d9f0d3c4d82739c673ac3c2\\NetworkTables-3.1.1-beta-1-arm.jar;C:\\Users\\colso\\.gradle\\caches\\modules-2\\files-2.1\\edu.wpi.first.wpilibj\\wpilibJavaFinal\\2016.5.1\\340606a96e9914b9bcecec43406cbc8f58e1a14f\\wpilibJavaFinal-2016.5.1.jar'
+-d 'C:\\Users\\colso\\Desktop\\FRC-2017\\Workspaces\\build\\docs\\javadoc'
+-doctitle 'Workspaces API'
 -quiet 
--windowtitle 'FRC-2017 API'
-'C:\\Users\\colso\\Desktop\\FRC-2017\\src\\main\\java\\org\\usfirst\\frc\\team6027\\Robot.java'
+-windowtitle 'Workspaces API'
+'C:\\Users\\colso\\Desktop\\FRC-2017\\Workspaces\\src\\main\\java\\org\\usfirst\\frc\\team6027\\Robot.java'
