@@ -80,7 +80,7 @@
     <option name="mySupportsUserInfoFilter" value="true" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/.." vcs="" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: edu.wpi.first.wpilib.networktables.java:NetworkTables:arm:3.1.1-beta-1">
