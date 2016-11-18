@@ -4,3 +4,7 @@ build/
 .gradle/2.2.1/taskArtifacts/cache.properties.lock
 .gradle/2.2.1/taskArtifacts/cache.properties.lock
 FRC-2017.iws
+.gradle/2.2.1/taskArtifacts/cache.properties.lock
+.gradle/2.2.1/taskArtifacts/fileSnapshots.bin
+*.lock
+*.bin
